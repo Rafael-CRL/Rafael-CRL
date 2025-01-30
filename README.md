@@ -11,7 +11,7 @@ Melhores práticas de desenvolvimento Android
 Clean Code e arquiteturas modernas
 
 ### 🌱 Tecnologias & Ferramentas
-Copy☕ Java      | 🤖 Android Studio
+☕ Java      | 🤖 Android Studio
 💜 Kotlin    | 🐍 Python
 🔄 Git       | 🐱 GitHub
 ⚡ C         | 📊 Estruturas de Dados

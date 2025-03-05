@@ -1,18 +1,22 @@
-## Olá, mundo! 👋
-Entre bugs e códigos, aqui está mais um entusiasta da tecnologia se aventurando pelo universo dev! Atualmente, estou cursando Sistemas de Informação e mergulhando de cabeça no desenvolvimento mobile.
-💡 Minha Jornada
-O mundo Android me fisgou completamente - Java e Kotlin são meus companheiros diários nessa aventura de criar apps. Mas hey, também navego por outras águas! Python e C fazem parte do meu arsenal, e o Git/GitHub é praticamente meu caderno de anotações digital.
-### 🚀 No que ando focado
-Desenvolvimento mobile é onde meu coração bate mais forte agora. Estou me aprofundando em:
+# Olá, sou Rafael 👋
 
-Design de software para apps que façam a diferença
-Estruturas de dados e algoritmos (porque performance importa!)
-Melhores práticas de desenvolvimento Android
-Clean Code e arquiteturas modernas
+Sou estudante de Sistemas de Informação e apaixonado por tecnologia, com um foco especial em desenvolvimento mobile. Atualmente, estou em fase de aprendizado, explorando as melhores práticas para a criação de aplicativos Android. Tenho me aprofundado no uso de Java e Kotlin, enquanto também estudo Python e C. Uso Git e GitHub para organizar meus projetos e acompanhar minha evolução.
 
-### 🌱 Tecnologias & Ferramentas
-☕ Java      | 🤖 Android Studio
-💜 Kotlin    | 🐍 Python
-🔄 Git       | 🐱 GitHub
-⚡ C         | 📊 Estruturas de Dados
-Sempre em busca do próximo nível, um commit de cada vez!
+## 🚀 O que estou explorando
+- **Desenvolvimento Mobile:** Construindo apps Android com arquiteturas modernas e boas práticas.
+- **Design de Software:** Desenvolvendo interfaces simples e eficientes.
+- **Estruturas de Dados e Algoritmos:** Buscando soluções otimizadas para problemas reais.
+- **Clean Code:** Escrevendo código mais legível e sustentável.
+
+## 🌱 Tecnologias & Ferramentas
+- ☕ Java  
+- 🤖 Android Studio  
+- 💜 Kotlin  
+- 🐍 Python  
+- ⚡ C  
+- 🔄 Git  
+- 🐱 GitHub  
+- 📊 Estruturas de Dados  
+
+## 📫 Contato
+- [Email] rafaelcristolobato@gmail.com  

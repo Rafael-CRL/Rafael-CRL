@@ -1,22 +1,26 @@
-# Olá, sou Rafael 👋
+# Rafael Cristo Lobato
 
-Sou estudante de Sistemas de Informação e apaixonado por tecnologia, com um foco especial em desenvolvimento mobile. Atualmente, estou em fase de aprendizado, explorando as melhores práticas para a criação de aplicativos Android. Tenho me aprofundado no uso de Java e Kotlin, enquanto também estudo Python e C. Uso Git e GitHub para organizar meus projetos e acompanhar minha evolução.
+Sou estudante de Sistemas de Informação com forte interesse em tecnologia e desenvolvimento mobile. Tenho focado na criação de aplicações Android utilizando Java e Kotlin, sempre buscando adotar boas práticas de arquitetura e design. Paralelamente, aprofundo meus conhecimentos em linguagens como Python e C, além de fundamentos como estruturas de dados e algoritmos.
 
-## 🚀 O que estou explorando
-- **Desenvolvimento Mobile:** Construindo apps Android com arquiteturas modernas e boas práticas.
-- **Design de Software:** Desenvolvendo interfaces simples e eficientes.
-- **Estruturas de Dados e Algoritmos:** Buscando soluções otimizadas para problemas reais.
-- **Clean Code:** Escrevendo código mais legível e sustentável.
+Atualmente, utilizo Git e GitHub para controle de versão, organização de projetos e documentação dos meus estudos da Faculdade.
 
-## 🌱 Tecnologias & Ferramentas
+## 🚀 Áreas de Interesse
+
+- **Desenvolvimento Mobile:** Criação de aplicativos Android com foco em desempenho, escalabilidade e boas práticas.
+- **Design de Software:** Desenvolvimento de interfaces limpas e intuitivas.
+- **Algoritmos e Estruturas de Dados:** Resolução eficiente de problemas através da lógica estruturada.
+- **Boas Práticas de Programação:** Aplicação de princípios como Clean Code e SOLID.
+
+## 🛠️ Tecnologias e Ferramentas
+
 - ☕ Java  
-- 🤖 Android Studio  
 - 💜 Kotlin  
+- 🤖 Android Studio  
 - 🐍 Python  
 - ⚡ C  
-- 🔄 Git  
-- 🐱 GitHub  
-- 📊 Estruturas de Dados  
+- 🔧 Git & GitHub  
+- 🧠 Estruturas de Dados e Algoritmos
 
 ## 📫 Contato
-- [Email] rafaelcristolobato@gmail.com  
+
+- **Email:** [rafaelcristolobato@gmail.com](mailto:rafaelcristolobato@gmail.com)

@@ -1,25 +1,25 @@
 # Rafael Cristo Lobato
 
-Sou estudante de Sistemas de Informação com forte interesse em tecnologia e desenvolvimento mobile. Tenho focado na criação de aplicações Android utilizando Java e Kotlin, sempre buscando adotar boas práticas de arquitetura e design. Paralelamente, aprofundo meus conhecimentos em linguagens como Python e C, além de fundamentos como estruturas de dados e algoritmos.
+Sou estudante de Sistemas de Informação e entusiasta de tecnologia, com interesse especial por desenvolvimento de software em níveis mais próximos do sistema. No momento, estou focado nos estudos da faculdade, aprofundando minha compreensão sobre estruturas de dados, algoritmos, sistemas operacionais e fundamentos da programação.
 
-Atualmente, utilizo Git e GitHub para controle de versão, organização de projetos e documentação dos meus estudos da Faculdade.
+Tenho me dedicado principalmente à linguagem Java, mas também estudo C e Python como forma de ampliar minha visão sobre diferentes paradigmas e níveis de abstração. Utilizo Git e GitHub para versionamento e organização de projetos, mesmo que muitos estejam em fase de aprendizado ou experimentação.
 
 ## 🚀 Áreas de Interesse
 
-- **Desenvolvimento Mobile:** Criação de aplicativos Android com foco em desempenho, escalabilidade e boas práticas.
-- **Design de Software:** Desenvolvimento de interfaces limpas e intuitivas.
-- **Algoritmos e Estruturas de Dados:** Resolução eficiente de problemas através da lógica estruturada.
-- **Boas Práticas de Programação:** Aplicação de princípios como Clean Code e SOLID.
+- **Sistemas Operacionais:** Entendendo como o software conversa com o hardware.
+- **Estruturas de Dados e Algoritmos:** Base para escrever código mais eficiente e confiável.
+- **Linguagens de Programação:** Estudo prático de Java, C e Python com foco em lógica e arquitetura.
+- **Programação de Baixo Nível:** Compreensão da execução e comportamento interno dos programas.
+- **Desenvolvimento de Software:** Construção de soluções simples, organizadas e funcionais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - ☕ Java  
-- 💜 Kotlin  
-- 🤖 Android Studio  
-- 🐍 Python  
 - ⚡ C  
+- 🐍 Python  
 - 🔧 Git & GitHub  
-- 🧠 Estruturas de Dados e Algoritmos
+- 🧠 Estruturas de Dados  
+- 🖥️ Linux (uso diário e aprendizado técnico)
 
 ## 📫 Contato
 

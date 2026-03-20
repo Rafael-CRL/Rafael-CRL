@@ -1,8 +1,8 @@
 # Rafael Cristo Lobato
 
-Estudante de Sistemas de Informação (6º período) com muita curiosidade.
-Gosto de entender como as coisas funcionam de verdade — não só usar, mas fuçar, configurar,
-quebrar e entender por quê quebrou. Isso me levou naturalmente a backend, redes e IA.
+Estudante de Sistemas de Informação com uma curiosidade que não para quieta.
+Gosto de entender como as coisas funcionam de verdade — fuçar, configurar,
+quebrar e entender por quê quebrou. Isso me levou naturalmente a backend, redes, IA e Linux.
 
 
 ## 🎯 Interesses

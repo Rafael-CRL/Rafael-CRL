@@ -10,7 +10,7 @@ quebrar e entender por quê quebrou. Isso me levou naturalmente a backend, redes
 - **Backend & APIs** — Construção de serviços, integração entre sistemas
 - **Redes & Infraestrutura** — Configuração de servidores, diagnóstico de conectividade, Docker
 - **IA & LLMs** — Experimentos com modelos locais via Ollama e integração com aplicações
-- **Linux** — Ambiente de uso diário, não só ferramenta
+- **Linux** — Ambiente de uso diário e estudo
 
 ## 🛠️ Tecnologias
 

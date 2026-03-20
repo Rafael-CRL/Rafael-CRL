@@ -1,26 +1,31 @@
 # Rafael Cristo Lobato
 
-Sou estudante de Sistemas de Informação e entusiasta de tecnologia, com interesse especial por desenvolvimento de software em níveis mais próximos do sistema. No momento, estou focado nos estudos da faculdade, aprofundando minha compreensão sobre estruturas de dados, algoritmos, sistemas operacionais e fundamentos da programação.
+Estudante de Sistemas de Informação com interesse em desenvolvimento de software próximo ao sistema — onde a lógica do código encontra o comportamento real do hardware. Busco construir uma base técnica sólida, com atenção à eficiência, clareza e boas práticas desde o início da formação.
 
-Tenho me dedicado principalmente à linguagem Java, mas também estudo C e Python como forma de ampliar minha visão sobre diferentes paradigmas e níveis de abstração. Utilizo Git e GitHub para versionamento e organização de projetos, mesmo que muitos estejam em fase de aprendizado ou experimentação.
+## 🎯 Áreas de Interesse
 
-## 🚀 Áreas de Interesse
-
-- **Sistemas Operacionais:** Entendendo como o software conversa com o hardware.
-- **Estruturas de Dados e Algoritmos:** Base para escrever código mais eficiente e confiável.
-- **Linguagens de Programação:** Estudo prático de Java, C e Python com foco em lógica e arquitetura.
-- **Programação de Baixo Nível:** Compreensão da execução e comportamento interno dos programas.
-- **Desenvolvimento de Software:** Construção de soluções simples, organizadas e funcionais.
+- **Sistemas Operacionais** — Como o software interage com o hardware em baixo nível
+- **Estruturas de Dados e Algoritmos** — Fundamentos para escrever código eficiente e confiável
+- **Programação de Baixo Nível** — Compreensão da execução e do comportamento interno dos programas
+- **Linguagens de Programação** — Estudo comparativo de paradigmas e níveis de abstração
+- **Desenvolvimento de Software** — Construção de soluções organizadas, simples e funcionais
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ☕ Java  
-- ⚡ C  
-- 🐍 Python  
-- 🔧 Git & GitHub  
-- 🧠 Estruturas de Dados  
-- 🖥️ Linux (uso diário e aprendizado técnico)
+| Tecnologia | Contexto de uso |
+|---|---|
+| ☕ Java | Principal linguagem de estudo — POO, algoritmos e estruturas de dados |
+| ⚡ C | Estudo de baixo nível, ponteiros e gerenciamento de memória |
+| 🐍 Python | Automação e experimentação com diferentes paradigmas |
+| 🔧 Git & GitHub | Versionamento e organização de projetos acadêmicos |
+| 🖥️ Linux | Uso diário — ambiente de desenvolvimento e aprendizado técnico |
+
+## 🌐 Idiomas
+
+- **Português** — Nativo
+- **Inglês** — Leitura e compreensão auditiva intermediárias; uso diário para documentação técnica, artigos e materiais de estudo
 
 ## 📫 Contato
 
 - **Email:** [rafaelcristolobato@gmail.com](mailto:rafaelcristolobato@gmail.com)
+- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario) ← atualize com o seu

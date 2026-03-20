@@ -1,31 +1,35 @@
 # Rafael Cristo Lobato
 
-Estudante de Sistemas de Informação com interesse em desenvolvimento de software próximo ao sistema — onde a lógica do código encontra o comportamento real do hardware. Busco construir uma base técnica sólida, com atenção à eficiência, clareza e boas práticas desde o início da formação.
+Estudante de Sistemas de Informação (6º período) com uma curiosidade que não para quieta.
+Gosto de entender como as coisas funcionam de verdade — não só usar, mas fuçar, configurar,
+quebrar e entender por quê quebrou. Isso me levou naturalmente a backend, redes e IA.
 
-## 🎯 Áreas de Interesse
+Atualmente buscando estágio na área de desenvolvimento ou infraestrutura.
 
-- **Sistemas Operacionais** — Como o software interage com o hardware em baixo nível
-- **Estruturas de Dados e Algoritmos** — Fundamentos para escrever código eficiente e confiável
-- **Programação de Baixo Nível** — Compreensão da execução e do comportamento interno dos programas
-- **Linguagens de Programação** — Estudo comparativo de paradigmas e níveis de abstração
-- **Desenvolvimento de Software** — Construção de soluções organizadas, simples e funcionais
+## 🎯 Interesses
 
-## 🛠️ Tecnologias e Ferramentas
+- **Backend & APIs** — Construção de serviços, integração entre sistemas
+- **Redes & Infraestrutura** — Configuração de servidores, diagnóstico de conectividade, Docker
+- **IA & LLMs** — Experimentos com modelos locais via Ollama e integração com aplicações
+- **Linux** — Ambiente de uso diário, não só ferramenta
 
-| Tecnologia | Contexto de uso |
+## 🛠️ Tecnologias
+
+| Tecnologia | Contexto |
 |---|---|
-| ☕ Java | Principal linguagem de estudo — POO, algoritmos e estruturas de dados |
-| ⚡ C | Estudo de baixo nível, ponteiros e gerenciamento de memória |
-| 🐍 Python | Automação e experimentação com diferentes paradigmas |
-| 🔧 Git & GitHub | Versionamento e organização de projetos acadêmicos |
-| 🖥️ Linux | Uso diário — ambiente de desenvolvimento e aprendizado técnico |
+| ☕ Java | Principal linguagem — backend, POO, estruturas de dados |
+| 🐍 Python | Scripts, experimentos e prototipagem rápida |
+| 🐳 Docker | Ambientes isolados e configuração de serviços |
+| 🔧 Git & GitHub | Versionamento de projetos pessoais e acadêmicos |
+| 🖥️ Linux | Uso diário — administração, configuração e aprendizado |
+| 🤖 Ollama | Execução e teste de LLMs localmente |
 
 ## 🌐 Idiomas
 
 - **Português** — Nativo
-- **Inglês** — Leitura e compreensão auditiva intermediárias; uso diário para documentação técnica, artigos e materiais de estudo
+- **Inglês** — Leitura e compreensão auditiva intermediárias; uso diário para documentação e materiais técnicos
 
 ## 📫 Contato
 
 - **Email:** [rafaelcristolobato@gmail.com](mailto:rafaelcristolobato@gmail.com)
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario) ← atualize com o seu
+- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)

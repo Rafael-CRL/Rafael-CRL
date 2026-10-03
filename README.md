@@ -8,7 +8,11 @@
 
 - **[UniversePie](https://github.com/Rafael-CRL/UniversePie)**: cartões de vocabulário gerados a partir do que já foi estudado no Anki
 - **[Lambada](https://github.com/Rafael-CRL/lambada)**: leitura de pauta e notas no braço do violão
+- **[My-Dot_Files](https://github.com/Rafael-CRL/My-Dot_Files)**: my dot files.
 
 ---
 
-<p align="center"> <sub><i>everything worth saying, and everything else as well, can be said with two characters</i></sub><br> <sub>contato: <a href="mailto:rafaelcristolobato@gmail.com">rafaelcristolobato@gmail.com</a></sub> </p>
+<p align="center">
+  <sub><i>everything worth saying, and everything else as well, can be said with two characters</i></sub><br>
+  contato: <a href="mailto:rafaelcristolobato@gmail.com">rafaelcristolobato@gmail.com</a>
+</p>

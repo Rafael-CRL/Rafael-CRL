@@ -11,7 +11,4 @@
 
 ---
 
-<p align="center">
-  <i>everything worth saying, and everything else as well, can be said with two characters</i><br>
-  contato: <a href="mailto:rafaelcristolobato@gmail.com">rafaelcristolobato@gmail.com</a>
-</p>
+<p align="center"> <sub><i>everything worth saying, and everything else as well, can be said with two characters</i></sub><br> <sub>contato: <a href="mailto:rafaelcristolobato@gmail.com">rafaelcristolobato@gmail.com</a></sub> </p>

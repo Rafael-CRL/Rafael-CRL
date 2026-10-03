@@ -1,4 +1,4 @@
-<p align="center"> <img src="./header.svg" width="100%" alt="Rafael Cristo Lobato. Sistemas de Informação, UFPA. Foco em agentes de IA, backend e Linux. Stack: Java, Python, Docker, Linux, Git, Ollama."> </p>
+<p align="center"> <img src="./Header/header.svg" width="100%" alt="Rafael Cristo Lobato. Sistemas de Informação, UFPA. Foco em agentes de IA, backend e Linux. Stack: Java, Python, Docker, Linux, Git, Ollama."> </p>
 
 Completamente aficionado por computação.
 

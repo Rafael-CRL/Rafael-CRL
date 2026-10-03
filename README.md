@@ -2,8 +2,7 @@
   <img src="./header.svg" width="100%" alt="Rafael Cristo Lobato. Completamente aficionado por computação. Sistemas de Informação, UFPA. Interesses: Java, Linux, backend, automação, IA. Ambiente: Ubuntu, zsh, IntelliJ/Nvim, alacritty, Docker. Stack: Java, Linux, Python, Docker, FastAPI, Ollama.">
 </p>
 
-> *Se você quiser fazer uma torta de maçã do zero, você primeiro precisa inventar o universo.*<br>
-> <sub>— Carl Sagan</sub>
+> *Se você quiser fazer uma torta de maçã do zero, você primeiro precisa inventar o universo.*
 
 ### Em construção
 

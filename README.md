@@ -1,34 +1,12 @@
-# Rafael Cristo Lobato
+<p align="center"> <img src="./header.svg" width="100%" alt="Rafael Cristo Lobato. Sistemas de Informação, UFPA. Foco em agentes de IA, backend e Linux. Stack: Java, Python, Docker, Linux, Git, Ollama."> </p>
 
-Estudante de Sistemas de Informação com uma curiosidade que não para quieta.
-Gosto de entender como as coisas funcionam de verdade — fuçar, configurar,
-quebrar e entender por quê quebrou. Isso me levou naturalmente a backend, redes, IA e Linux.
+Completamente aficionado por computação.
 
+Interesses: backend, IA, agentes, automação, Linux<br> Ambiente: Linux, com configuração em My-Dot_Files
 
-## 🎯 Interesses
+Em construção:
 
-- **Backend & APIs** — Construção de serviços, integração entre sistemas
-- **Redes & Infraestrutura** — Configuração de servidores, diagnóstico de conectividade, Docker
-- **IA & LLMs** — Experimentos com modelos locais via Ollama e integração com aplicações
-- **Linux** — Ambiente de uso diário e estudo
+UniversePie: cartões de vocabulário gerados a partir do que já foi estudado no Anki
+Lambada: leitura de pauta e notas no braço do violão
 
-## 🛠️ Tecnologias
-
-| Tecnologia | Contexto |
-|---|---|
-| ☕ Java | Principal linguagem — backend, POO, estruturas de dados |
-| 🐍 Python | Scripts, experimentos e prototipagem rápida |
-| 🐳 Docker | Ambientes isolados e configuração de serviços |
-| 🔧 Git & GitHub | Versionamento de projetos pessoais e acadêmicos |
-| 🖥️ Linux | Uso diário — administração, configuração e aprendizado |
-| 🤖 Ollama | Execução e teste de LLMs localmente |
-
-## 🌐 Idiomas
-
-- **Português** — Nativo
-- **Inglês** — Leitura e compreensão auditiva intermediárias; uso diário para documentação e materiais técnicos
-
-## 📫 Contato
-
-- **Email:** [rafaelcristolobato@gmail.com](mailto:rafaelcristolobato@gmail.com)
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+rafaelcristolobato@gmail.com 

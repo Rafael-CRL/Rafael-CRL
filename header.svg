@@ -38,9 +38,9 @@
     <text x="516" y="92"><tspan class="k" font-weight="700">rafael</tspan><tspan fill="#8b949e">@</tspan><tspan class="k" font-weight="700">ufpa</tspan></text>
     <text x="516" y="110" fill="#30363d">───────────</text>
     <text x="516" y="132"><tspan class="k">OS</tspan><tspan class="v" x="608">Ubuntu</tspan></text>
-    <text x="516" y="152"><tspan class="k">Shell</tspan><tspan class="v" x="608">zsh + starship</tspan></text>
-    <text x="516" y="172"><tspan class="k">Editor</tspan><tspan class="v" x="608">Neovim (LazyVim)</tspan></text>
-    <text x="516" y="192"><tspan class="k">Terminal</tspan><tspan class="v" x="608">alacritty + zellij</tspan></text>
+    <text x="516" y="152"><tspan class="k">Shell</tspan><tspan class="v" x="608">zsh</tspan></text>
+    <text x="516" y="172"><tspan class="k">Editor</tspan><tspan class="v" x="608">Intellij/Nvim</tspan></text>
+    <text x="516" y="192"><tspan class="k">Terminal</tspan><tspan class="v" x="608">alacritty</tspan></text>
     <text x="516" y="212"><tspan class="k">Self-host</tspan><tspan class="v" x="608">Docker</tspan></text>
   </g>
   <g class="in d5">

@@ -1,8 +1,6 @@
 <p align="center"> <img src="./header.svg" width="100%" alt="Rafael Cristo Lobato. Sistemas de Informação, UFPA. Foco em agentes de IA, backend e Linux. Stack: Java, Python, Docker, Linux, Git, Ollama."> </p>
 
-**Completamente aficionado por computação.**
-
-**Interesses:** backend, IA, agentes, automação, Linux<br> Ambiente: Linux, com configuração em My-Dot_Files
+> Se você quiser fazer uma torta de maçã do zero você primeiro precisa inventar o universo.
 
 **Em construção:**
 

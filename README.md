@@ -5,7 +5,7 @@
 > *Se você quiser fazer uma torta de maçã do zero, você primeiro precisa inventar o universo.*
 
 ### Em construção
-
+- **[FlashModel](https://github.com/Rafael-CRL/FlashModel)**: Mod para troca rápida de modelo no Claude Code. Aprovado pela Anthropic.
 - **[UniversePie](https://github.com/Rafael-CRL/UniversePie)**: cartões de vocabulário gerados de um conhecimento estabelicido.(Anki)
 - **[Lambada](https://github.com/Rafael-CRL/lambada)**: estudo de música/partitura associado ao violão
 - **[My-Dot_Files](https://github.com/Rafael-CRL/My-Dot_Files)**: my dot files.
